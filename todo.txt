@@ -1,0 +1,43 @@
+TODO — Pereyra Dental Clinic Landing Page
+Generated: 2026-05-19
+Layout: Layout 3 — Trust-First Professional
+========================================
+
+CRITICAL (blocks launch)
+------------------------
+[ ] Fill in complete street address in Contact section and JSON-LD
+[ ] Fill in complete operating hours (Tuesday-Friday, Saturday, Sunday)
+[ ] Fill in dentist names and credentials in Team section
+[ ] Fill in patient reviews in Reviews section
+[ ] Fill in FAQ answers for walk-in availability, payment methods, and emergency services
+
+CONTENT (needs real copy or data)
+----------------------------------
+[ ] Dr. [Name] - Replace with actual dentist name
+[ ] [Staff Name] - Replace with actual staff names
+[ ] [Patient Name] - Replace with actual patient names for reviews
+[ ] [FILL IN] markers in FAQ answers need specific information
+[ ] [FILL IN] markers in hours table need specific times
+
+IMAGES
+-------
+[ ] All images downloaded from Unsplash (category-appropriate placeholders)
+[ ] Consider replacing with actual clinic photos when available
+
+SEO
+----
+[ ] JSON-LD structured data has [FILL IN] placeholders for address and hours
+[ ] Review and update meta description with complete address when available
+
+ALL DONE ✓
+-----------
+- Hero section with business name and location
+- Services grid with dental offerings
+- Why Choose Us section with trust signals
+- Team section with placeholder profiles
+- Reviews section with placeholder testimonials
+- FAQ section with common dental questions
+- Contact section with phone, Facebook, and Google Maps embed
+- Footer with quick links and contact info
+- Responsive design with Tailwind CSS
+- Preview banner for client review
